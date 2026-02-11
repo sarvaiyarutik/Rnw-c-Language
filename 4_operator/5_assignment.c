@@ -5,11 +5,9 @@
 
 int main(){
 
+    // assignment operator 
+
     int num1 = 20;
-
-
-
-
 
 
     printf("\nadd and assign: %d", num1 += 20);

@@ -5,6 +5,8 @@
 
 
 int main(){
+
+   // logical operator 
      
    int num1 = 200;
 
