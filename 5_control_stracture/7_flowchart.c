@@ -8,7 +8,7 @@ int main()
     int x, y, z;
 
     printf("Enter your number:");
-    scanf("%d %d %d", &x, &y, &z);
+    scanf("%d %d %d",&x,&y,&z);
 
     if (x >= y)
     {
