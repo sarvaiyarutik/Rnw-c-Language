@@ -1,22 +1,18 @@
-
-
 #include <stdio.h>
-
 
 int main(){
 
-    int n = 5;
+    int n = 7;
 
-    for(int i = 1; i <= n; i++){
+    for(int i = 0; i <= n; i++){
 
         for (int k = n; k > i; k--)
         {
-            printf("");
+            printf(" ");
         }
         
-
-        for(int j = i; j >= 1; j--){
-            printf("%d ",j);
+        for(int j = i; j >= 0; j--){
+            printf("* ");
         }
 
         printf("\n");
