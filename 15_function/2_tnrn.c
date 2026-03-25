@@ -4,12 +4,15 @@ void getting1()
 {
 
     printf("Nothing is imposable\n");
+
+    
 }
 
 void getting2()
 {
 
-    printf("Programming is a very hard");
+        printf("Programming is a very hard");
+    
 }
 
 int main()
@@ -19,4 +22,4 @@ int main()
     getting2();
 
     return 0;
-}
+   }
