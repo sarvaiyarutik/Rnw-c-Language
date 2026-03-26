@@ -18,7 +18,7 @@ int main(){
 
     char num[50];
    
-
+  
 
     printf("Enter any string :");
     scanf("%s",num);
