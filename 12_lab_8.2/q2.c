@@ -86,7 +86,7 @@ int main()
 
       for (int j = 0; j < col ; j++)
       {
-         printf("%d\n",number3[i][j]);
+         printf("%d ",number3[i][j]);
       }
        
    }
